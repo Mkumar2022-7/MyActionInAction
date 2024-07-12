@@ -7,10 +7,10 @@ inputs:
     default: 'World'
 outputs:
   answer: # id of input
-    desription: 'The answer to everything (always 42)'
+    description: 'The answer to everything (always 42)'
 runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
-    - ${{ inputs.who-to-greet' }}
+    - ${{ inputs.who-to-greet }}
     
