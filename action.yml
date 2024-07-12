@@ -1,7 +1,7 @@
 name: "Mkumar2022-7's Action In Action"
 branding:
   icon: 'alert-triangle'
-  color: 'orange'
+  color: 'green'
 description: 'Greets someone and returns always 42'
 inputs:
   who-to-greet: # id of the input
