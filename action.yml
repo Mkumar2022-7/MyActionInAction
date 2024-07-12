@@ -1,3 +1,6 @@
+branding:
+  icon: 'alert-triangle'
+  color: 'orange'
 name: "Mkumar2022-7's Action In Action"
 description: 'Greets someone and returns always 42'
 inputs:
